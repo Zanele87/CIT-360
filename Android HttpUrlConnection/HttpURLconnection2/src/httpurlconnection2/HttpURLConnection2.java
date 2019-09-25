@@ -20,7 +20,7 @@ public class HttpURLConnection2 {
     	
 	public static void main (String[] args) {
 		
-		String output = getUrlContents("https://github.com/Zaneleh/CIT360/");
+		String output = getUrlContents("https://github.com/Zaneleh/CIT-360/");
 
 		System.out.println(output);
 	}
