@@ -7,7 +7,7 @@ package javacollections;
 
 /**
  *
- * @author seth
+ * @author zanele
  */
 import java.util.*;
 
