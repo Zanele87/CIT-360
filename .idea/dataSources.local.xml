@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Servlets:Servlet:src:java:hibernate.cfg.xml/Hibernate" uuid="b22e3476-7b45-4b32-bb7d-5db5a8fb5bab">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <user-name>root</user-name>
+    </data-source>
+    <data-source name="NewPersistenceUnit/Hibernate" uuid="4d9b5a02-b6a4-43a2-9fe8-83119d5ee4ea">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+    </data-source>
+  </component>
+</project>
