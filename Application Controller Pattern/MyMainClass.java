@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Benjamin Greenway
+ * @author zanele
  */
 public class MyMainClass {
     
