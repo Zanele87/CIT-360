@@ -19,9 +19,9 @@ import java.util.concurrent.ThreadLocalRandom;
 
 
 
-public class CollectionBuildControl implements Serializable {
+public class CollectionExample implements Serializable {
 
-    public CollectionBuildControl() {
+    public CollectionExmaple() {
         //Empty constructor
     }
 
