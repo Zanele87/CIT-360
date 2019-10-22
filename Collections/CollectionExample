@@ -21,7 +21,7 @@ import java.util.concurrent.ThreadLocalRandom;
 
 public class CollectionExample implements Serializable {
 
-    public CollectionExmaple() {
+    public CollectionExample() {
         //Empty constructor
     }
 
